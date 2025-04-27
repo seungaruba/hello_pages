@@ -14,3 +14,7 @@ reactable(iris)
 ```{r}
 plot(iris)
 ```
+
+Github link: 
+1 - https://seungaruba.github.io/hello_pages/index
+2 - https://seungaruba.github.io/hello_pages/second_page
