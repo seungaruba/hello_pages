@@ -1,5 +1,5 @@
 ```
-title:"My first page"
+title:"My second page"
 
 ```
 
@@ -8,9 +8,9 @@ library(reactable)
 ```
 
 ```{r}
-reactable(infert)
+reactable(iris)
 ```
 
 ```{r}
-plot(women)
+plot(iris)
 ```
